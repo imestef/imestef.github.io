@@ -145,6 +145,7 @@ Responsive media queries
 }
 
 #about {
+  padding-top:150px;
   background: url('../img/about-banner-notebook.jpg') no-repeat;
   background-size: cover;
   margin-bottom: -3px;
