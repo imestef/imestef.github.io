@@ -48,7 +48,7 @@ Responsive media queries
 ***********************************/
 
 .header {
-  background: url('../img/island.jpg') no-repeat fixed;
+  background: url('../img/palm.jpg') no-repeat fixed;
   background-size: cover;
   min-height: 630px;
   position: relative;
@@ -145,8 +145,7 @@ Responsive media queries
 }
 
 #about {
-  padding-top:150px;
-  background: url('../img/about-banner-notebook.jpg') no-repeat;
+  padding-top:50px;
   background-size: cover;
   margin-bottom: -3px;
 }
