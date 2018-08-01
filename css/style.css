@@ -10,7 +10,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   letter-spacing: 0.5px;
-  font-size: 15px;
   font-weight: 400;
 }
 
@@ -145,7 +144,7 @@ Responsive media queries
 }
 
 #about {
-  padding-top:50px;
+  padding-top:80px;
   background-size: cover;
   margin-bottom: -3px;
 }
